@@ -1,43 +1,42 @@
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-<h1 align="center"> Привет, меня зовут Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-
-> ### I'm a Machine Learning engineer
-*I found myself in the Data Science working on engineering projects <br/> and predicting the likelihood of equipment failure.* 
-*<br/>This area has been incredibly inspiring to me.*
-
-<div id="badges" align="left">
-  <a href="https://t.me/DimDolino">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=230&height=50&lines=Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
-</div>
-
-
+<h1 align="center">Привет, меня зовут Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA0YzExOGs3ZDR0YjI3amptazNwcTVjNnZ3OXdqdzRtbjN6MHpibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XreQmk7ETCak0/giphy.gif" width="400">
 
 ### :man_technologist: Обо мне:
-Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием.
+Я Аналитик Данных с техническим образованием <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: За числами нахожу данные, которые помогают в развитии продукта.
-- :seedling: Люблю решать задачи на логику на CodeWars, LeetCode, предпочитаю принимать решения на основе данных.
-- :zap: Свободное время провожу с семьей.
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/DimDolino)
+- За числами нахожу данные, которые помогают в развитии продукта.
+- Люблю решать задачи на логику на CodeWars, LeetCode, предпочитаю принимать решения на основе данных.
+- Свободное время провожу с семьей.
 
----
+
+Контакты:
+* 📞 +7-929-602-22-98
+* 📲 [Telegram](https://t.me/smirnovrealty)
+* ✉ [smirnov-n.v@mail.ru](mailto:smirnov-n.v@mail.ru) 
+
+### Языки и инструменты 🔧
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
+![MySql](https://img.shields.io/badge/MySQL-0b0038?logo=mySQL&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=%white)
+![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
+![Plotly](https://img.shields.io/badge/plotly-0b0038?logo=plotly&logoColor=blue&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0b0038?style=for-the-badge&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b0038?logo=Jupyter&style=for-the-badge)
+![Redash](https://img.shields.io/badge/Redash-0b0038?logo=redash&logoColor=red&style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
+
+
+
+</div>
 
 ### :hammer_and_wrench: Языки и инструменты:
 <div>
-  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-white?logo=mySQL&style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&style=for-the-badge"/>&nbsp;
+  
+  
   <img src="https://img.shields.io/badge/Redash-white?logo=redash&logoColor=black&style=for-the-badge"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&style=for-the-badge"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black&style=for-the-badge"/>&nbsp;
