@@ -1,10 +1,9 @@
 <h1 align="center"> Привет, меня зовут Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlia2pmZ2NwcGNqeXRqN3JsZWs1ejZxMjRuYnFmc21heXkxdWN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vccgHuzSVf8BppdZ1e/giphy.gif" width="400">
+<img align="right" src="https://media.giphy.com/media/NlVbLJeCTA7El1HwgE/giphy.gif?cid=ecf05e478ln05zty8kj7fzforzyydtpbp7y560ub2of2sbji&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 
-### I'm a Machine Learning engineer
+> ### I'm a Machine Learning engineer
 *I found myself in the Data Science working on engineering projects <br/> and predicting the likelihood of equipment failure.* 
 *<br/>This area has been incredibly inspiring to me.*
-
 
 <div id="badges" align="left">
   <a href="https://t.me/DimDolino">
@@ -15,7 +14,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=230&height=50&lines=Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
----
+
 
 ### :man_technologist: Обо мне:
 Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием.
