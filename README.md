@@ -5,7 +5,7 @@
 Я Аналитик Данных с техническим образованием <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - Перешёл в аналитику после 7 лет в недвижимости
-- В свободное время читаю кни
+- Люблю структурность и работу с цифрами
 - Из увлечений: книги, спорт и коллекционирование фигурок
 
 Контакты:
@@ -57,7 +57,7 @@
 |------------------|------|------|
 | [Анализ метрик и гипотез маркетплейса](https://github.com/DimDolino/Find_the_Thief) | Выявление причин снижения выручки и проверка гипотез роста на основе данных | Python (Pandas, NumPy, Seaborn, Matplotlib, Requests), Jupyter Notebook, ICE |
 | [Анализ поведения пользователей в мобильной игре](https://github.com/DimDolino/Gamedev_analysis) | Расчёт Retention и анализ результатов A/B-теста акционных предложений | Python (Pandas, NumPy, SciPy, Statsmodels, Seaborn, Matplotlib, Pingouin, Requests) |
-| [Дашборд для брендов компании (сфера красоты)](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) | Создание интерактивного дашборда для визуализации ключевых метрик с фильтрацией и отслеживанием выполнения планов | Yandex Datalens |
+| [Дашборд для брендов компании (сфера красоты)](https://datalens.yandex/39jnq4h3wwuap) | Создание интерактивного дашборда для визуализации ключевых метрик с фильтрацией и отслеживанием выполнения планов | Yandex Datalens |
 
 ---
 <details>	   
