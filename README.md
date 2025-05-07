@@ -12,7 +12,7 @@
 Контакты:
 * 📞 +7-929-602-22-98
 * 📲 [Telegram](https://t.me/smirnovrealty)
-* ✉ [smirnov-n.v@mail.ru](mailto:smirnov-n.v@mail.ru) 
+* ✉ smirnov-n.v@mail.ru 
 
 ### Языки и инструменты 🔧
 <div align="center">
