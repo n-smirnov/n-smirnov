@@ -56,7 +56,7 @@
 | Название проекта | Цель | Стек |
 |------------------|------|------|
 | [Анализ метрик и гипотез маркетплейса](https://github.com/n-smirnov/project_1) | Выявление причин снижения выручки и проверка гипотез роста на основе данных | Python (Pandas, NumPy, Seaborn, Matplotlib, Requests), Jupyter Notebook, ICE |
-| [Анализ поведения пользователей в мобильной игре](https://github.com/DimDolino/Gamedev_analysis) | Расчёт Retention и анализ результатов A/B-теста акционных предложений | Python (Pandas, NumPy, SciPy, Statsmodels, Seaborn, Matplotlib, Pingouin, Requests) |
+| [Анализ поведения пользователей в мобильной игре](https://github.com/n-smirnov/project_2) | Расчёт Retention и анализ результатов A/B-теста акционных предложений | Python (Pandas, NumPy, SciPy, Statsmodels, Seaborn, Matplotlib, Pingouin, Requests) |
 | [Дашборд для брендов компании (сфера красоты)](https://datalens.yandex/39jnq4h3wwuap) | Создание интерактивного дашборда для визуализации ключевых метрик с фильтрацией и отслеживанием выполнения планов | Yandex Datalens |
 
 ---
