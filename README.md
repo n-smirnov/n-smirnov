@@ -65,6 +65,8 @@
   
 - <b>Аналитик данных</b>  
 [![Karpov](https://img.shields.io/badge/Karpov.Courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=white)](https://lab.karpov.courses/certificate/9c2fe64d-d452-4595-9fba-a7fa74d4fcc5/)<br>
+- <b>Симулятор SQL</b>  
+[![Karpov](https://img.shields.io/badge/Karpov.Courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=white)](https://lab.karpov.courses/certificate/f9572288-c86b-46f4-b656-8d1b6af00b6d/)<br>
 - <b>Основы статистики</b><br>
 [![Stepik](https://img.shields.io/badge/Stepik-0b0038?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/cert/2631844)
   
